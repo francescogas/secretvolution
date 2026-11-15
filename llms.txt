@@ -1,0 +1,11 @@
+# SecretVolution
+
+> SecretVolution (InnovAzione Lab) aiuta le PMI italiane a usare l'intelligenza artificiale in azienda con regole chiare: formazione, assessment, GDPR e AI Act, agenti AI. Autore: Francesco Gasparinetti, consulente AI.
+
+## Pagine principali
+- [Home](https://secretvolution.com/): servizi, percorsi e compliance
+- [Semaforo AI](https://secretvolution.com/semaforo-ai/): regola in tre colori per decidere quali dati aziendali dare a ChatGPT, Claude e Copilot
+
+## Canali
+- [YouTube @SecretVolution](https://www.youtube.com/@SecretVolution): video su AI per PMI
+- [Instagram @secretvolution](https://www.instagram.com/secretvolution/)
