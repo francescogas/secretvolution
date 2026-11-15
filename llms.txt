@@ -1,11 +1,19 @@
 # SecretVolution
 
-> SecretVolution (InnovAzione Lab) aiuta le PMI italiane a usare l'intelligenza artificiale in azienda con regole chiare: formazione, assessment, GDPR e AI Act, agenti AI. Autore: Francesco Gasparinetti, consulente AI.
+> Piattaforma di Francesco Gasparinetti per PMI e imprenditori italiani che vogliono implementare l'intelligenza artificiale in azienda o risolvere un problema concreto: preventivi, mail, dati e privacy, formazione del team, automazione con agenti AI, AI Act e GDPR.
 
-## Pagine principali
-- [Home](https://secretvolution.com/): servizi, percorsi e compliance
+## Guide per problema
+- [Preventivi e offerte che portano via ore](https://secretvolution.com/problemi/preventivi-e-offerte/): Offerte fatte la sera e nei weekend, sempre da zero.
+- [Mail, risposte e riepiloghi che occupano la giornata](https://secretvolution.com/problemi/email-e-posta/): Ore perse ogni mattina tra posta e risposte ripetitive.
+- [Quali dati posso dare all'AI senza rischi](https://secretvolution.com/problemi/dati-aziendali-e-privacy/): Il team usa ChatGPT ma nessuno ha regole.
+- [Il team non sa usare bene l'AI](https://secretvolution.com/problemi/formazione-del-team/): Ognuno usa l'AI a modo suo, con risultati e rischi diversi.
+- [Processi manuali che si possono automatizzare](https://secretvolution.com/problemi/automatizzare-processi/): Dati copiati a mano, controlli ripetuti, scorte e tesoreria.
+- [AI Act e GDPR: cosa devo fare](https://secretvolution.com/problemi/ai-act-e-gdpr/): Obblighi in arrivo e nessuno sa da dove cominciare.
+
+## Altre pagine
 - [Semaforo AI](https://secretvolution.com/semaforo-ai/): regola in tre colori per decidere quali dati aziendali dare a ChatGPT, Claude e Copilot
+- [AI Assessment](https://secretvolution.com/Assessment/): valutazione dell'uso dell'AI in azienda
 
 ## Canali
-- [YouTube @SecretVolution](https://www.youtube.com/@SecretVolution): video su AI per PMI
+- [YouTube @SecretVolution](https://www.youtube.com/@SecretVolution)
 - [Instagram @secretvolution](https://www.instagram.com/secretvolution/)
