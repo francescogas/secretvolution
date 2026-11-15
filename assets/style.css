@@ -49,3 +49,7 @@ footer{border-top:1px solid var(--line);padding:40px 0;color:var(--mut);font-siz
 @media(max-width:720px){.nav nav a.h{display:none}body{font-size:17px}.hero{padding-top:40px}.step{padding-left:50px}}
 .nav nav a.btn{color:#000}.nav nav a.btn:hover{color:#000}
 article h1{font-size:clamp(1.8rem,4vw,2.5rem)}
+form.card label{display:block;margin-bottom:14px;font-size:.95rem;color:var(--mut)}
+form.card input:not([type=checkbox]),form.card textarea{display:block;width:100%;margin-top:6px;background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:12px;padding:12px 14px;font:inherit}
+form.card input:focus,form.card textarea:focus{outline:2px solid rgba(255,193,0,.5)}
+form.card label.chk{display:flex;gap:10px;align-items:flex-start;font-size:.88rem}form.card label.chk input{margin-top:4px}
