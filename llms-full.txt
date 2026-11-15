@@ -1,0 +1,144 @@
+# SecretVolution: contenuti completi
+
+> Piattaforma di Francesco Gasparinetti (Gasparinetti Francesco, P.IVA 04965860275, Musile di Piave, Venezia) per PMI e imprenditori italiani che vogliono usare l'intelligenza artificiale in azienda.
+
+## Come velocizzare preventivi e offerte con l'intelligenza artificiale
+URL: https://secretvolution.com/problemi/preventivi-e-offerte/
+
+Un agente AI può preparare la bozza di un preventivo partendo dalla richiesta del cliente, dal listino e dalle offerte passate, lasciando a te solo la revisione finale. Il titolare smette di fare preventivi la sera e nel weekend; i dati del cliente restano sotto controllo con regole chiare su cosa si può dare all'AI.
+
+Cosa può fare l'AI:
+- Legge la richiesta del cliente (mail, PDF, messaggio) e ne estrae articoli, quantità e condizioni.
+- Applica listino, sconti e condizioni standard che hai già definito.
+- Prepara la bozza dell'offerta nel formato che usi già, pronta da controllare.
+- Segnala i casi dubbi invece di indovinare, così decidi tu.
+
+Come si parte:
+1. Raccogli 5-10 offerte recenti e il listino: sono il materiale di partenza.
+2. Scrivi le regole che oggi hai solo in testa (sconti, trasporto, tempi di consegna).
+3. Parti da una famiglia di prodotti, non da tutto il catalogo.
+4. Controlla le prime bozze una per una, poi allarga.
+
+Caso reale: Per un'azienda termoidraulica con molti cantieri ho realizzato un agente AI che prepara i preventivi: il titolare, sempre fuori, non li fa più la sera e nel weekend.
+
+Domande frequenti:
+- L'AI può fare un preventivo da sola senza controllo? No, e non dovrebbe. Prepara la bozza, la revisione e l'invio restano a una persona.
+- Quali dati dei clienti posso dare all'AI per i preventivi? Dipende dal livello di rischio: usa la regola del Semaforo AI. I dati identificativi e i prezzi riservati vanno trattati con strumenti e impostazioni adatti.
+- Serve cambiare il gestionale? Spesso no: si parte dai documenti e dai listini che già hai, e si valuta l'integrazione in un secondo momento.
+
+## Come gestire mail e posta aziendale con l'intelligenza artificiale
+URL: https://secretvolution.com/problemi/email-e-posta/
+
+L'AI può leggere la posta, riassumere le mail importanti, preparare le risposte che si ripetono e ricordarti cosa è in attesa. Tu controlli e invii: si risparmia il tempo di scrittura senza perdere il controllo su cosa esce dall'azienda.
+
+Cosa può fare l'AI:
+- Riassume le mail lunghe e i fili di discussione.
+- Prepara bozze di risposta nel tuo stile partendo da mail che hai già scritto.
+- Raggruppa cosa è urgente, cosa è in attesa e cosa può aspettare.
+- Prepara il riepilogo del lunedì con appuntamenti e cose da seguire.
+
+Come si parte:
+1. Scegli 2-3 tipi di mail che ripeti più spesso (richieste info, solleciti, conferme).
+2. Dai all'AI due tue mail vere come esempio di stile, non una descrizione.
+3. Decidi cosa non deve mai leggere (mail con dati sensibili): vedi il Semaforo AI.
+4. Rivedi le bozze per una settimana prima di fidarti.
+
+Domande frequenti:
+- L'AI può leggere tutta la mia posta? Può, ma conviene decidere cosa collegare. Collega solo ciò che serve: posta, calendario e cartelle con permessi limitati.
+- Le risposte suoneranno come me? Sì, se le dai due mail vere come esempio: imita lo stile molto meglio di una descrizione.
+- È sicuro per i dati dei clienti? Dipende dallo strumento e dalle impostazioni. Per i dati personali usa la regola del Semaforo AI e un abbonamento aziendale.
+
+## Quali dati aziendali puoi dare a ChatGPT, Claude e Copilot
+URL: https://secretvolution.com/problemi/dati-aziendali-e-privacy/
+
+Serve una regola semplice che il team capisca subito: il Semaforo AI. Verde per ciò che si può dare, giallo solo dopo aver tolto i dati personali, rosso per ciò che non va mai inserito. Una regola scritta evita gli errori più comuni e rende l'uso dell'AI più sicuro.
+
+Cosa può fare l'AI:
+- Definisce in tre colori cosa si può dare all'AI nella tua azienda.
+- Distingue gli strumenti consumer da quelli aziendali.
+- Fa girare la regola nel team con esempi del tuo lavoro.
+- Prepara il terreno per GDPR e AI Act senza bloccare il lavoro.
+
+Come si parte:
+1. Elenca i 10 tipi di documento che il team usa di più con l'AI.
+2. Assegna a ciascuno un colore: verde, giallo, rosso.
+3. Scegli gli strumenti ammessi e le impostazioni di privacy.
+4. Condividi la regola in una pagina sola e ripetila a voce.
+
+Domande frequenti:
+- Cos'è il Semaforo AI? È una regola in tre colori per decidere quali dati aziendali dare all'AI. Trovi la guida completa nella pagina dedicata.
+- Basta il Semaforo AI per essere in regola con il GDPR? No: è un punto di partenza semplice per il team. Per il GDPR serve una valutazione dedicata alla tua azienda.
+- Posso usare ChatGPT gratuito per documenti dei clienti? È la situazione di rischio più comune. Meglio strumenti aziendali con impostazioni adeguate e, per i dati personali, rimuoverli prima.
+
+## Formazione AI per il team di una PMI: da dove partire
+URL: https://secretvolution.com/problemi/formazione-del-team/
+
+Per una PMI funziona meglio formare il team su casi reali del proprio lavoro che fare un corso generico: ogni persona impara a usare l'AI su offerte, mail e documenti che ha davvero davanti, con regole comuni su cosa si può dare all'AI.
+
+Cosa può fare l'AI:
+- Parte dalle attività che il team ripete ogni settimana.
+- Insegna a impostare Progetti e istruzioni una volta sola, invece di rispiegarsi a ogni chat.
+- Dà regole comuni sui dati e sugli errori da evitare.
+- Lascia materiali riutilizzabili: modelli, istruzioni, esempi.
+
+Come si parte:
+1. Scegli 3 attività che il team fa più spesso.
+2. Prepara un esempio reale per ciascuna.
+3. Fai provare il team con supervisione, non solo ascoltare.
+4. Dopo due settimane verifica cosa viene usato davvero.
+
+Domande frequenti:
+- Online o in presenza? Dipende dal team. Online parte subito e costa meno; in presenza funziona bene quando si lavora sui processi reali. I percorsi sono descritti nella pagina Percorsi.
+- Serve saper programmare? No. Per iniziare bastano strumenti come Claude e ChatGPT usati bene.
+- Quanto tempo serve per vedere risultati? Dipende dal punto di partenza: spesso si vedono i primi risparmi già nelle prime settimane su attività ripetitive.
+
+## Come automatizzare i processi aziendali con agenti AI
+URL: https://secretvolution.com/problemi/automatizzare-processi/
+
+Un agente AI è un programma che svolge un compito completo al posto tuo: legge dati, li incrocia, prepara un risultato e segnala le eccezioni. Funziona bene su attività ripetitive con regole chiare, come preventivi, controlli di tesoreria, riepiloghi e smistamento documenti, con una persona che supervisiona.
+
+Cosa può fare l'AI:
+- Legge documenti e dati da più fonti.
+- Incrocia le informazioni e applica le regole che gli dai.
+- Prepara il risultato e segnala le eccezioni.
+- Può funzionare anche in locale, senza mandare dati fuori dall'azienda, quando serve.
+
+Come si parte:
+1. Elenca i compiti ripetitivi che occupano più ore ogni settimana.
+2. Scegli quello con regole più chiare e dati già digitali.
+3. Parti con un prototipo su un caso, supervisionato.
+4. Misura il tempo risparmiato prima di estendere.
+
+Caso reale: Per un'azienda ho sostituito la gestione manuale della tesoreria con un tool agentico che incrocia lo storico di acquisti e scorte con i dati giornalieri.
+
+Domande frequenti:
+- Cos'è un agente AI? Un programma che svolge un compito completo, non solo una risposta: legge, decide secondo regole, prepara un risultato e segnala le eccezioni.
+- Posso tenere i dati in azienda? Sì, quando serve si possono usare modelli in locale, anche senza connessione, sulle tue macchine.
+- Chi controlla il lavoro dell'agente? Una persona. Gli agenti ben fatti segnalano i casi dubbi invece di indovinare.
+
+## AI Act e GDPR per le PMI: da dove cominciare
+URL: https://secretvolution.com/problemi/ai-act-e-gdpr/
+
+Il punto di partenza è sapere quali strumenti AI usa davvero l'azienda, per cosa e con quali dati. Da lì si classifica l'uso, si scrivono regole interne e si definisce chi controlla. L'AI Act prevede anche obblighi di trasparenza, per esempio nel dichiarare contenuti generati dall'AI; i dettagli vanno verificati con un consulente legale per il tuo caso.
+
+Cosa può fare l'AI:
+- Mappa gli strumenti AI in uso e i dati che toccano.
+- Aiuta a classificare gli usi e a scrivere regole interne semplici.
+- Prepara indicazioni su trasparenza e supervisione umana.
+- Lavora insieme al tuo consulente legale o DPO quando serve.
+
+Come si parte:
+1. Fai l'elenco degli strumenti AI usati in azienda, anche non ufficiali.
+2. Per ciascuno annota: a che serve, quali dati riceve, chi lo usa.
+3. Applica il Semaforo AI ai dati.
+4. Porta l'elenco al tuo consulente legale per le verifiche.
+
+Domande frequenti:
+- Sono consulente legale? No: non sostituisco un avvocato. Aiuto a mettere ordine nell'uso dell'AI e a preparare il lavoro per le verifiche legali.
+- L'AI Act vale per le PMI? Riguarda chi sviluppa e chi usa sistemi AI nell'Unione Europea, comprese le imprese che li usano. Gli obblighi dipendono dal tipo di uso: da verificare caso per caso.
+- Da dove parto domani mattina? Dall'elenco degli strumenti AI usati dal team e dalla regola del Semaforo AI.
+
+## Semaforo AI
+URL: https://secretvolution.com/semaforo-ai/
+
+Il Semaforo AI è una regola in tre colori per decidere quali dati aziendali si possono dare a un'intelligenza artificiale: verde (si può dare), giallo (solo con cautela e dopo aver tolto i dati personali), rosso (non va mai inserito).

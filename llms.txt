@@ -13,6 +13,7 @@
 ## Altre pagine
 - [Semaforo AI](https://secretvolution.com/semaforo-ai/): regola in tre colori per decidere quali dati aziendali dare a ChatGPT, Claude e Copilot
 - [AI Assessment](https://secretvolution.com/Assessment/): valutazione dell'uso dell'AI in azienda
+- [Contenuti completi in un solo file](https://secretvolution.com/llms-full.txt)
 
 ## Canali
 - [YouTube @SecretVolution](https://www.youtube.com/@SecretVolution)
