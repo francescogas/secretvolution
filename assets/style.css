@@ -68,3 +68,5 @@ body:has(.app) .wa-fab{display:none}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 .welcome{justify-content:flex-start}.welcome>:first-child{margin-top:auto}.welcome>:last-child{margin-bottom:auto}
 @media(max-width:820px){.welcome h1{font-size:2rem}}
+
+.row.plan{align-items:start}.row.plan ul{margin:10px 0 0;padding-left:1.1em}.row.plan li{margin:6px 0;color:inherit}.row.plan .price{margin-top:6px}.note{margin-top:16px;font-size:.95rem}
