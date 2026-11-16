@@ -15,7 +15,7 @@ function run(txt){
  txt=(txt||'').trim();if(!txt)return;
  var r=null;for(var i=0;i<R.length;i++){if(R[i].k.test(txt)){r=R[i];break}}
  r=r||G;
- var u=document.createElement('div');u.className='b u';u.textContent=txt;msgs.appendChild(u);
+ var w=document.getElementById('welcome');if(w)w.style.display='none';var u=document.createElement('div');u.className='b u';u.textContent=txt;msgs.appendChild(u);
  var a=document.createElement('div');a.className='b a';
  var wa=WA+encodeURIComponent("Ciao Francesco, il mio problema: "+txt.slice(0,400));
  a.innerHTML='<h4>'+esc(r.t)+'</h4><ul>'+r.a.map(function(x){return '<li>'+esc(x)+'</li>'}).join('')+'</ul><div class="cta">'+(r===G?'':'<a class="btn sm ghost" href="'+r.u+'">Leggi come si fa</a>')+'<a class="btn sm" target="_blank" rel="noopener" href="'+wa+'">Parlane con Francesco</a></div>';
